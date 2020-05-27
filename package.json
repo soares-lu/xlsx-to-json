@@ -10,10 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "gh-pages": "^2.2.0",
     "nodemon": "^2.0.4",
-    "xls-to-json": "^0.5.4",
-    "xlsx": "^0.16.1",
-    "xlsx-to-json": "^0.3.0"
+    "xlsx": "^0.16.1"
   }
 }
